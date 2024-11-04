@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **g-omahony/g-omahony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,3 +21,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/g-omahony/g-omahony">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=g-omahony&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ger's GitHub Stats" />
 </a>
+<img src="https://g-omahony-readme-stats.vercel.app/api/top-langs?username=g-omahony&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="Ger's Top Languages" align="right" width="295">
