@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/g-omahony/g-omahony">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=g-omahony&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ger's GitHub Stats" />
 </a>
+
 ### Streak Stats Activity
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=g-omahony&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
