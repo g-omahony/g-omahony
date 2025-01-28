@@ -61,5 +61,5 @@ Here are some ideas to get you started:
 </div>
 
 <p align="center">
-  <img width="560" height="400" src="https://github-readme-streak-stats.herokuapp.com/?user=g-omahony&theme=github_dark&hide_border=false">
+  <img width="560" height="400" src="https://github-readme-streak-stats.herokuapp.com/?user=g-omahony&theme=tokyonight">
 </p>
